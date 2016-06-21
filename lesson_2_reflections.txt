@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+It create an empty repository with nothing in it and it doesn't track anything.
+to initialize the git repository.
