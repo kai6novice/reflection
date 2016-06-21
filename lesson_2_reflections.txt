@@ -4,3 +4,6 @@ to initialize the git repository.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area doesn't contains all the files in the working direcotry, allow the user have the flexibility to control what files should be grouped and commited into the repository as a logical unit. It give user more flexibility.
+
+How can you use the staging area to make sure you have one commit per logical change?
+you only put all the necessary files that represent one logical change into the staging area before commiting it.
