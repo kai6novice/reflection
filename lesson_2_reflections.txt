@@ -7,3 +7,6 @@ staging area doesn't contains all the files in the working direcotry, allow the 
 
 How can you use the staging area to make sure you have one commit per logical change?
 you only put all the necessary files that represent one logical change into the staging area before commiting it.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when trying out a proof of concept or create a sub product, those can help separate the main product from the other sub product.
