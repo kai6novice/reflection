@@ -16,3 +16,6 @@ It help me to understand where everything is in terms of timeline.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It merge all changes into one. don't know.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic merge save user time. however, it might not be always right. manual merge take longer time, but it's more logically correct.
