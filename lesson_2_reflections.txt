@@ -13,3 +13,6 @@ when trying out a proof of concept or create a sub product, those can help separ
 
 How do the diagrams help you visualize the branch structure?
 It help me to understand where everything is in terms of timeline.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It merge all changes into one. don't know.
