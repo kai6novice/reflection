@@ -4,3 +4,7 @@ when you're doing collaboration a project with others. when your local storage i
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 because if someone updated the remote repository, and git automatically pull the changes, the changes might overwrite your local changes made in the same file.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork only happen in github, it links between cloned remote repository.
+clones happen both in github and local. it's a way to copy an entire repository without any linkage. Unless you clone a repository from remote to local, then the clone will have a pointer, points back to remote.
+branches, is a temporary clone of a repo, it will point back to the origin branch it's branch from.
