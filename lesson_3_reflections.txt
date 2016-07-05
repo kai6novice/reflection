@@ -11,3 +11,7 @@ branches, is a temporary clone of a repo, it will point back to the origin branc
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 so you can work offline
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would send a copy of my work to my coworker, mark the changes I made, and have he/she review it.
+I believe git/github is easier, becasue you don't need to mark your changes, git/github will display the difference for you. And there is a good way of communication workflow built-in and track.
