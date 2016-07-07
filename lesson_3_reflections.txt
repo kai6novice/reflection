@@ -15,3 +15,6 @@ so you can work offline
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would send a copy of my work to my coworker, mark the changes I made, and have he/she review it.
 I believe git/github is easier, becasue you don't need to mark your changes, git/github will display the difference for you. And there is a good way of communication workflow built-in and track.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When your changes might not be stable or solid enough to be in the master branch,so you want to keep the master branch as the stable branch. The branching approach give you a separate copy of the project and keep a stable copy as well as a development copy. If you make changes in the master branch, it will save you time when merging, becasue you merge earlier.
